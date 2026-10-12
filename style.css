@@ -1,0 +1,20 @@
+body
+{
+    background-color: blue;
+    color: aqua;
+    font-size: small;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    color: blueviolet;
+}
+.about{
+    background-color: brown;
+}
+.h1protfolio{
+    color: coral;
+    font-size: xx-large;
+}
+a{
+    text-decoration: none;
+}
